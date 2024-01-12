@@ -21,7 +21,7 @@ If either str1 or str2 is null, the method should return false.
 
 The method should also return false if the lengths of str1 and str2 are not the same.
 
-
+https://gale.udemy.com/course/java-programming-tutorial-for-beginners/learn/quiz/5948014#overview
 */
 
 
